@@ -1,0 +1,2 @@
+*.mmpdb filter=lfs diff=lfs merge=lfs -text
+*.fragments filter=lfs diff=lfs merge=lfs -text

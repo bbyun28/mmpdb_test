@@ -1,0 +1,5 @@
+rule_environment_statistics_id	rule_id	rule_environment_id	radius	fingerprint	from_smiles	to_smiles	count	avg	std	kurtosis	skewness	min	q1	median	q3	max	paired_t	p_value
+28699	143276	868610	0	59SlQURkWt98BOD1VlKTGRkiqFDbG6JVkeTJ3ex3bOA	[*:1]O	[*:1][H]	16	-587.88	14102	-0.47579	-0.065761	-28460	-8991.5	-3247.8	10238	23962	0.16674	0.8698
+54091	143276	1140189	1	tLP3hvftAkp3EUY+MHSruGd0iZ/pu5nwnEwNA+NiAh8	[*:1]O	[*:1][H]	15	-1617	13962	-0.25757	-0.18897	-28460	-9534.4	-4646	7271.1	23962	0.44855	0.66062
+56363	143276	1146828	2	ym4jjNp6M811Yd0uAcKgLaiuKLNlhGxaU2FN/65EiD4	[*:1]O	[*:1][H]	3	4628.1	17485	-1.5	-0.24615	-10077	-7558	0	17971	23962	-0.45846	0.69162
+56550	143276	1147575	3	epWXDOOtiVLnFPhsdb89UN1noHJUTNbNiF1h/qpOhmQ	[*:1]O	[*:1][H]	2	11981	16944			0	0	11981	23962	23962	-1	0.5
